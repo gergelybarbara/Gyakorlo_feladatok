@@ -1,0 +1,7 @@
+C:\Users\lapis\source\repos\feladat1\feladat1\bin\Debug\feladat1.exe.config
+C:\Users\lapis\source\repos\feladat1\feladat1\bin\Debug\feladat1.exe
+C:\Users\lapis\source\repos\feladat1\feladat1\bin\Debug\feladat1.pdb
+C:\Users\lapis\source\repos\feladat1\feladat1\obj\Debug\feladat1.csproj.AssemblyReference.cache
+C:\Users\lapis\source\repos\feladat1\feladat1\obj\Debug\feladat1.csproj.CoreCompileInputs.cache
+C:\Users\lapis\source\repos\feladat1\feladat1\obj\Debug\feladat1.exe
+C:\Users\lapis\source\repos\feladat1\feladat1\obj\Debug\feladat1.pdb

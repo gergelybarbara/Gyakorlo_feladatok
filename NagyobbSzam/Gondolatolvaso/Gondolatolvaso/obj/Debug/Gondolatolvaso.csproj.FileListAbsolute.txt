@@ -1,0 +1,7 @@
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\bin\Debug\Gondolatolvaso.exe.config
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\bin\Debug\Gondolatolvaso.exe
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\bin\Debug\Gondolatolvaso.pdb
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\obj\Debug\Gondolatolvaso.csproj.AssemblyReference.cache
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\obj\Debug\Gondolatolvaso.csproj.CoreCompileInputs.cache
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\obj\Debug\Gondolatolvaso.exe
+C:\Users\lapis\source\repos\Gondolatolvaso\Gondolatolvaso\obj\Debug\Gondolatolvaso.pdb

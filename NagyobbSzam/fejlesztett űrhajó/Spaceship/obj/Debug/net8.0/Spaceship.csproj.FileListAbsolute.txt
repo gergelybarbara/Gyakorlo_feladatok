@@ -1,0 +1,56 @@
+C:\Users\diak\source\repos\Spaceship\bin\Debug\net8.0\Spaceship.exe
+C:\Users\diak\source\repos\Spaceship\bin\Debug\net8.0\Spaceship.deps.json
+C:\Users\diak\source\repos\Spaceship\bin\Debug\net8.0\Spaceship.runtimeconfig.json
+C:\Users\diak\source\repos\Spaceship\bin\Debug\net8.0\Spaceship.dll
+C:\Users\diak\source\repos\Spaceship\bin\Debug\net8.0\Spaceship.pdb
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfo.cs
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.dll
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\refint\Spaceship.dll
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.pdb
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\Spaceship.genruntimeconfig.cache
+C:\Users\diak\source\repos\Spaceship\obj\Debug\net8.0\ref\Spaceship.dll
+C:\Users\lapis\Desktop\C#\Spaceship\bin\Debug\net8.0\Spaceship.exe
+C:\Users\lapis\Desktop\C#\Spaceship\bin\Debug\net8.0\Spaceship.deps.json
+C:\Users\lapis\Desktop\C#\Spaceship\bin\Debug\net8.0\Spaceship.runtimeconfig.json
+C:\Users\lapis\Desktop\C#\Spaceship\bin\Debug\net8.0\Spaceship.dll
+C:\Users\lapis\Desktop\C#\Spaceship\bin\Debug\net8.0\Spaceship.pdb
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfo.cs
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.dll
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\refint\Spaceship.dll
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.pdb
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\Spaceship.genruntimeconfig.cache
+C:\Users\lapis\Desktop\C#\Spaceship\obj\Debug\net8.0\ref\Spaceship.dll
+E:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.exe
+E:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.deps.json
+E:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.runtimeconfig.json
+E:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.dll
+E:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.pdb
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfoInputs.cache
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfo.cs
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.csproj.CoreCompileInputs.cache
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.dll
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\refint\Spaceship.dll
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.pdb
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.genruntimeconfig.cache
+E:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\ref\Spaceship.dll
+D:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.exe
+D:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.deps.json
+D:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.runtimeconfig.json
+D:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.dll
+D:\C#\fejlesztett űrhajó\Spaceship\bin\Debug\net8.0\Spaceship.pdb
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfoInputs.cache
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.AssemblyInfo.cs
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.csproj.CoreCompileInputs.cache
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.dll
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\refint\Spaceship.dll
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.pdb
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\Spaceship.genruntimeconfig.cache
+D:\C#\fejlesztett űrhajó\Spaceship\obj\Debug\net8.0\ref\Spaceship.dll
